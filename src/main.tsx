@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/js/bootstrap.js'
 
 import App from './App.tsx'
-import { BrowserRouter, Router } from 'react-router-dom'
+import { BrowserRouter} from 'react-router-dom'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

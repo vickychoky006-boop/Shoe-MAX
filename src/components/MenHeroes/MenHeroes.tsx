@@ -1,9 +1,3 @@
-
-import Slider1 from "../../assets/video/adidas.mp4"
-import Slider2 from "../../assets/video/nike.mp4"
-
-import Slider from "../../assets/img/Men shoe/Hero/s.jfif"
-import Slider4 from "../../assets/img/Men shoe/Hero/2.jfif"
 import Shoe1 from "../../assets/img/Men shoe/Hero/shoe1.jfif"
 import Shoe2 from "../../assets/img/Men shoe/Hero/shoe2.jfif"
 import Shoe3 from "../../assets/img/Men shoe/Hero/shoe3.jfif"
@@ -15,52 +9,6 @@ import "../../components/MenHeroes/MenHeroes.css"
 function MenHeroes(){
     return(
         <>
-        {/* <div id="carouselExampleAutoplaying" className="carousel slide" data-bs-ride="carousel">
-  <div className="carousel-inner">
-    <div className="carousel-item active">
-      <video
-          autoPlay
-          loop
-          muted
-          className="w-100"
-          style={{ height: "600px", objectFit: "cover" }}
-        >
-          <source src={Slider1} type="video/mp4" />
-        </video>
-    </div>
-    <div className="carousel-item">
-      <video
-          autoPlay
-          loop
-          muted
-          className="w-100"
-          style={{ height: "600px", objectFit: "cover" }}
-        >
-          <source src={Slider2} type="video/mp4" />
-        </video>
-    </div>
-    <div className="carousel-item">
-      <video
-          autoPlay
-          loop
-          muted
-          className="w-100"
-          style={{ height: "600px", objectFit: "cover" }}
-        >
-          <source src={Slider3} type="video/mp4" />
-        </video>
-    </div>
-  </div>
-  <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span className="visually-hidden">Previous</span>
-  </button>
-  <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-    <span className="carousel-control-next-icon" aria-hidden="true"></span>
-    <span className="visually-hidden">Next</span>
-  </button>
-</div> */}
-
     <div className="container-fluid py-4 body-con">
 
       {/* Hero Section */}
