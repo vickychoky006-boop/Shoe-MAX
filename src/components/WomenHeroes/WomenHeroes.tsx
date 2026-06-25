@@ -1,6 +1,6 @@
 
 import Shoe1 from "../../assets/img/Women/Hero/Shoe1.jfif"
-import Shoe2 from "../../assets/img/Women/Hero/Shoe2.jfif"
+
 import Shoe3 from "../../assets/img/Women/Hero/Shoe3.jfif"
 import Shoe4 from "../../assets/img/Women/Hero/Shoe4.jfif"
 import Shoe5 from "../../assets/img/Women/Hero/shoe5.jpeg"
