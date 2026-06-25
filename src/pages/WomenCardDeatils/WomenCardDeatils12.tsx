@@ -1,4 +1,4 @@
-import card1 from"../../assets/img/Women/card/adidas3.png"
+import card1 from"../../assets/img/Women/card/adidas4.png"
 import img1 from"../../assets/img/Product-Details/Women/card11/img1.jpg"
 import img2 from"../../assets/img/Product-Details/Women/card11/img2.jpg"
 import img3 from"../../assets/img/Product-Details/Women/card11/img3.jpg"
@@ -6,7 +6,7 @@ import img4 from"../../assets/img/Product-Details/Women/card11/img4.jpg"
 import img5 from"../../assets/img/Product-Details/Women/card11/img5.jpg"
 import "../../pages/WomenCardDeatils/WomenCardDeatils.css"
 import { useState } from "react";
-function WomenCardDeatils11(){
+function WomenCardDeatils12(){
  const [mainImg, setMainImg] = useState(card1);
             const [size, setSize] = useState(7);
     return(
@@ -38,12 +38,12 @@ function WomenCardDeatils11(){
       <div className="product-details">
 
   <h1 className="product-title">
-Adidas Response Runner</h1>
+Adidas Advantage Base</h1>
 
   <div className="price-section">
-    <span className="mrp">MRP: ₹6,999</span>
-    <span className="sale-price">₹5,999</span>
-    <span className="discount">30% OFF</span>
+    <span className="mrp">MRP: ₹5,999</span>
+    <span className="sale-price">₹4,999</span>
+    <span className="discount">17% OFF</span>
   </div>
    <div className="d-flex gap-3 mb-4">
         <span className="color black"></span>
@@ -108,4 +108,4 @@ Adidas Response Runner</h1>
         </>
     )
 }
-export default WomenCardDeatils11
+export default WomenCardDeatils12
