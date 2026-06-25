@@ -1,9 +1,4 @@
 
-import Slider1 from "../../assets/video/adidas.mp4"
-import Slider2 from "../../assets/video/nike.mp4"
-
-import Slider from "../../assets/img/Men shoe/Hero/s.jfif"
-import Slider4 from "../../assets/img/Men shoe/Hero/2.jfif"
 import Shoe1 from "../../assets/img/Men shoe/Hero/shoe1.jfif"
 import Shoe2 from "../../assets/img/Men shoe/Hero/shoe2.jfif"
 import Shoe3 from "../../assets/img/Men shoe/Hero/shoe3.jfif"

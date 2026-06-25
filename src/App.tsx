@@ -30,6 +30,7 @@ import WomenCardDeatils8 from './pages/WomenCardDeatils/WomenCardDeatils8'
 import WomenCardDeatils9 from './pages/WomenCardDeatils/WomenCardDeatils9'
 import WomenCardDeatils10 from './pages/WomenCardDeatils/WomenCardDeatils10'
 import WomenCardDeatils11 from './pages/WomenCardDeatils/WomenCardDeatils11'
+import WomenCardDeatils12 from './pages/WomenCardDeatils/WomenCardDeatils12'
 
 
 
@@ -67,6 +68,7 @@ function App() {
       <Route path='/card21' element={<WomenCardDeatils9/>}/>
       <Route path='/card22' element={<WomenCardDeatils10/>}/>
       <Route path='/card23' element={<WomenCardDeatils11/>}/>
+      <Route path='/card24' element={<WomenCardDeatils12/>}/>
      
 
       
