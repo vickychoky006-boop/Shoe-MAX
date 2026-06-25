@@ -185,3 +185,25 @@
   opacity: 1;
 }
 
+@media (max-width: 768px){
+
+  .product-card2{
+    width: 90%;
+    margin: 15px auto;
+  }
+
+  .card-body p{
+    min-height: auto;
+  }
+
+  .bottom-section{
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .animated-button{
+    width: 100%;
+    justify-content: center;
+  }
+
+}

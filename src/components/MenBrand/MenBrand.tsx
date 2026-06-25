@@ -16,43 +16,43 @@ function MenBrand(){
         <div className="brand-container mt-4">
     <div className="card_box  col-6 col-md-3 ">
         <span></span>
-        <img src={brand1} height={500} width={500}/>
+        <img src={brand1} className="brand-img"/>
     </div>
 </div>
       <div className="brand-container mt-4">
     <div className="card_box  col-6 col-md-3">
         <span></span>
-        <img src={brand2} height={500} width={500}/>
+        <img src={brand2} className="brand-img"/>
     </div>
 </div>
       <div className="brand-container mt-4">
     <div className="card_box  col-6 col-md-3">
         <span></span>
-        <img src={brand3} height={500} width={500}/>
+        <img src={brand3} className="brand-img"/>
     </div>
 </div>
       <div className="brand-container mt-4">
     <div className="card_box  col-6 col-md-3">
         <span></span>
-        <img src={brand4} height={500} width={500}/>
+        <img src={brand4} className="brand-img"/>
     </div>
 </div>
       <div className="brand-container mt-4">
     <div className="card_box  col-6 col-md-3">
         <span></span>
-        <img src={brand5} height={500} width={500}/>
+        <img src={brand5} className="brand-img"/>
     </div>
 </div>
       <div className="brand-container mt-4">
     <div className="card_box  col-6 col-md-3">
         <span></span>
-        <img src={brand6} height={500} width={500}/>
+        <img src={brand6} className="brand-img"/>
     </div>
 </div>
   <div className="brand-container mt-4">
     <div className="card_box  col-6 col-md-3">
         <span></span>
-        <img src={brand7} height={500} width={500}/>
+        <img src={brand7} className="brand-img"/>
     </div>
 </div>
   </div>  

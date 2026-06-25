@@ -1,0 +1,30 @@
+@media (max-width: 768px){
+
+  .nav{
+    gap: 0 !important;
+  }
+
+  .nav li{
+    width: 100%;
+    text-align: center;
+  }
+
+  .text-end{
+    width: 100%;
+    text-align: center !important;
+    margin-top: 10px;
+  }
+
+  .text-end button{
+    margin-top: 5px;
+  }
+
+  form[role="search"]{
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  form[role="search"] input{
+    width: 100%;
+  }
+}

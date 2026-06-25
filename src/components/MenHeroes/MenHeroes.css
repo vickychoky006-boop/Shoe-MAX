@@ -111,7 +111,7 @@
   display:none;
 }
 
-.product-card{
+.product-card3{
   min-width:220px;
   background:white;
   border:1px solid #eee;
@@ -129,7 +129,7 @@
 
 .product-img{
   width:100%;
-  height:200px;
+  height:70%;
   object-fit:contain;
 }
 
@@ -147,7 +147,7 @@
   font-weight:700;
 }
 
-@media(max-width:768px){
+/* @media(max-width:768px){
 
   .hero-content{
     flex-direction:column;
@@ -173,5 +173,17 @@
 
   .product-card{
     min-width:180px;
+  } */
+
+@media (max-width:768px){
+
+  .hero-content{
+    flex-direction:column;
+  }
+
+  .hero-img{
+    width:100%;
+    max-width:250px;
+    height:auto;
   }
 }

@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import nav from '../../assets/img/logo.png'
+import "../header/Header.css"
 function Header(){
     return(
         <>

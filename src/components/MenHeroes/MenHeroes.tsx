@@ -57,7 +57,7 @@ function MenHeroes(){
               <br />
               FOR SNEAKERS
               <br />
-              FEST ID 2023
+              FEST ID 2026
             </h2>
 
             <p>
@@ -65,7 +65,7 @@ function MenHeroes(){
               offers this month.
             </p>
 
-            <button className="light-btn">
+            <button className="light-btn bg-black text-white">
               Event Details
             </button>
 
@@ -89,7 +89,7 @@ function MenHeroes(){
         <div className="products-row">
 
        
-            <div className="product-card" >
+            <div className="product-card3" >
 
               <div className="heart">♡</div>
 
@@ -108,7 +108,7 @@ function MenHeroes(){
               <h4 className="fs-5">₹4,999</h4>
 
             </div>
-             <div className="product-card" >
+             <div className="product-card3" >
 
               <div className="heart">♡</div>
 
@@ -127,7 +127,7 @@ function MenHeroes(){
               <h4 className="fs-5">₹3,799</h4>
 
             </div>
-             <div className="product-card" >
+             <div className="product-card3" >
 
               <div className="heart">♡</div>
 
@@ -146,7 +146,7 @@ function MenHeroes(){
               <h4 className="fs-5">₹5,999</h4>
 
             </div>
-             <div className="product-card" >
+             <div className="product-card3" >
 
               <div className="heart">♡</div>
 

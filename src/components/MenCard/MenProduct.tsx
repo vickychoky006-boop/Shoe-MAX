@@ -31,8 +31,8 @@ function MenProduct(){
 
         <p>{item.desc}</p>
 
-        <div className="bottom-section">
-          <h4>{item.price}</h4>
+        <div className="bottom-section fw-bolder">
+          <h4>₹{item.price}</h4>
 
 <Link to={item.link} style={{textDecoration:"none"}}><button className="animated-button">
   <svg xmlns="http://www.w3.org/2000/svg" className="arr-2" viewBox="0 0 24 24">

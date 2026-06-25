@@ -87,7 +87,7 @@ function WoMenHeroes(){
 
           <span className="timer">
             Ends in 12:10:09
-          </span>product-card1
+          </span>
         </div>
 
         <div className="products-row">
@@ -131,7 +131,7 @@ function WoMenHeroes(){
               <p>₹4,299</p>
 
             </div>
-             <div className="product-card1" >
+             {/* <div className="product-card1" >
 
               <div className="heart">♡</div>
 
@@ -149,7 +149,7 @@ function WoMenHeroes(){
 
               <p>₹5,999</p>
 
-            </div>
+            </div> */}
              <div className="product-card1" >
 
               <div className="heart">♡</div>

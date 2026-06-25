@@ -32,10 +32,10 @@ function MensecondBrand(){
 
     {/* Brand 1 */}
     <div className="col-lg-4">
-      <div className="brand-box">
+      <div className="brand-box p-2">
 
         <div className="d-flex justify-content-between align-items-center mb-3">
-          <div>
+          <div className="mt-3">
             <h4>Adidas</h4>
             <p className="text-muted mb-0">
               4.9 ⭐ | 7.2M Followers
@@ -70,17 +70,17 @@ function MensecondBrand(){
 
     {/* Brand 2 */}
     <div className="col-lg-4">
-      <div className="brand-box">
+      <div className="brand-box p-2">
 
         <div className="d-flex justify-content-between align-items-center mb-3">
-          <div>
+          <div className="mt-3">
             <h4>Puma</h4>
             <p className="text-muted mb-0">
               4.8 ⭐ | 5M Followers
             </p>
           </div>
 
-          <button className="btn btn-outline-dark">
+          <button className="btn btn-outline-dark ">
             Visit
           </button>
         </div>
@@ -97,10 +97,10 @@ function MensecondBrand(){
 
     {/* Brand 3 */}
     <div className="col-lg-4">
-      <div className="brand-box">
+      <div className="brand-box p-2 ">
 
         <div className="d-flex justify-content-between align-items-center mb-3">
-          <div>
+          <div className="mt-3">
             <h4>Nike</h4>
             <p className="text-muted mb-0">
               4.9 ⭐ | 20M Followers

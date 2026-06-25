@@ -107,6 +107,7 @@
   scrollbar-width:none;
 }
 
+
 .products-row::-webkit-scrollbar{
   display:none;
 }
@@ -129,7 +130,7 @@
 
 .product-img{
   width:100%;
-  height:140px;
+  height:100px;
   object-fit:contain;
 }
 
@@ -175,4 +176,27 @@
     min-width:180px;
   }
   
+}
+@media (max-width: 768px){
+
+  .heading-row{
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+
+  .products-row{
+    display:flex;
+    overflow-x:auto;
+    gap:15px;
+    padding-bottom:10px;
+  }
+
+  .product-card1{
+    min-width:160px;
+  }
+
+  .product-card1 .fs-5{
+    font-size:18px !important;
+  }
 }
